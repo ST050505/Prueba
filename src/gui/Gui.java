@@ -39,6 +39,8 @@ public class Gui {
 
     private void initialize() {
     	
+    	System.out.println("Buenas tardes");
+    	
         // Configuración de la ventana principal
     	
         frame = new JFrame("Tienda de celulares - Proyecto Final");
