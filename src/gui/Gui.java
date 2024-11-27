@@ -40,6 +40,7 @@ public class Gui {
     private void initialize() {
     	
     	System.out.println("Buenas tardes");
+    	System.out.println("Buenas noches");
     	
         // Configuración de la ventana principal
     	
